@@ -4,5 +4,5 @@ The default [Sapper](https://github.com/sveltejs/sapper) template, embedded with
 That's it.
 That's the md.
 
-### hpw to use
+### how to use
 Three sass boilerplate files in src/style (one imports bulma sass files, one sets custom variables, one merges the first two).
